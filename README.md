@@ -1,4 +1,4 @@
-# PranathiNagisetti-InstaInvites
+# InstaInvites
 
 ## Overview
 PranathiNagisetti-InstaInvites is a web-based project designed to help users create and customize invitations for various occasions such as birthdays, half-saree ceremonies, marriages, naming ceremonies, and wedding anniversaries. The platform enables users to select templates, provide event details, and send invitations conveniently.
